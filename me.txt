@@ -1,0 +1,8 @@
+Name: John Louie B. Gonzales
+Address: 437 Machill St. Miami
+Age: 28
+Sex: Male
+Nationality: American
+Work: Professional Assassin
+Status: Single
+.14:58:34
